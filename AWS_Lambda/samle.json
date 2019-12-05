@@ -1,0 +1,18 @@
+[
+  {
+    "employee_id": 3,
+    "name"      : "dami",
+    "lastname"  : "agboola"
+  },
+
+  {
+    "employee_id" : 4,
+    "name"       : "peju",
+    "lastname"   : "smith"
+  },
+  {
+    "employee_id": 5,
+    "name": "semi",
+    "lastname": "small"
+  }
+]

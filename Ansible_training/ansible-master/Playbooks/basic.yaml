@@ -1,0 +1,6 @@
+---
+- hosts: dev
+  tasks:
+   - name: Test_EC2_instance Connection
+     ping:
+...
