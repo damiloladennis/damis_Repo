@@ -1,0 +1,8 @@
+{
+    "aws_region": "us-east-1",
+    "aws_source_ami": "ami-00d4e9ff62bc40e03",
+    "aws_instance_type": "t2.micro",
+    "aws_username": "ubuntu"
+
+}
+
