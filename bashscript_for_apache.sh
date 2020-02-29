@@ -10,4 +10,3 @@ systemctl start httpd.service
 systemctl enable httpd.service
 
 # Helow world from hostname to index.html file
-echo "Hello World from $(hostname -f)" > /var/www/html/index.html
